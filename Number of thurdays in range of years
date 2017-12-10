@@ -1,0 +1,18 @@
+#Calculating number of thursdays between 1900 and 2000
+#count prints number of thursdays
+def leap(year):
+    p=(year+(year/4)-(year/100)+(year/400))%7
+    return p
+    
+def weeks(year):
+    if leap(year)==4 or leap(year-1)==3:
+        week=53
+    else:
+        week=52
+    return week
+    
+count=0
+for i in range(1900,2001):
+    count=count+weeks(i)
+    print count
+print count
