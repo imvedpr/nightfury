@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="zeros"></p>
+
+<script>
+var data = [0, 1, 2, 'stop', 2, 0, 1, 'stop'];
+var ved=[];
+var i;
+for(i=0;i<data.length;i++){
+  if(data[i]!=0){
+    ved.push(data[i]);}
+}
+document.getElementById("zeros").innerHTML = ved;
+
+</script>
+
+</body>
+</html>
