@@ -5,4 +5,9 @@ In 2nd file using python, "Finding thursdays in range of years", first defined t
 (weeks) to have 52 or 53 weeks in a year. The condition is easily explained on wikipedia page. Here's the link:
 "https://en.wikipedia.org/wiki/ISO_week_date". 
 
-The 3rd file makes use of javascript to remove the zeroes from the list
+The 3rd file makes use of javascript to remove the zeroes from the list. In this defined a empty list apart from the given list. And if the 
+element of the given list is not equal to zero than push the elemnt to the new list defined. Finally display the new list which contains
+all the elements except zero.
+
+Analysis
+Nas.py contains the analysis of nas sheets. 
