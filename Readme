@@ -1,1 +1,8 @@
-The first file 
+The first file "Common and non-common elements in Two list" is quite simple to understand where in first loop you find the commom elements
+and in second loop your remove the common elements from the first list.All of this is done in python
+
+In 2nd file using python, "Finding thursdays in range of years", first defined the function which describes the condition for the second function 
+(weeks) to have 52 or 53 weeks in a year. The condition is easily explained on wikipedia page. Here's the link:
+"https://en.wikipedia.org/wiki/ISO_week_date". 
+
+The 3rd file makes use of javascript to remove the zeroes from the list
