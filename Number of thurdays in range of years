@@ -1,4 +1,4 @@
-#Calculating number of thursdays between 1900 and 2000
+#Calculating number of thursdays between 1900 and 2000 using python
 #count prints number of thursdays
 def leap(year):
     p=(year+(year/4)-(year/100)+(year/400))%7
