@@ -10,4 +10,11 @@ element of the given list is not equal to zero than push the elemnt to the new l
 all the elements except zero.
 
 Analysis
-Nas.py contains the analysis of nas sheets. 
+Nas.py contains the analysis of nas sheets. Initially separated the zero and non-zero values and applied random forest model to come up with 
+train and test.
+The code is not complete but whatever written is extrapolated then the whole answer can be found out easily.
+The code gives information about the influence of variables on maths, same thing can be done for other subjects
+Then the subjects can be added and the same algorithm can be used again to see the influencing variables.
+To check boys and girls performance, just amke two different sheets one of boy and other of girl and the total performance algorithm found 
+earlier can be checked over here.
+Similarly for the states where the two conditions will be southern states and other one will be rest of the states.
